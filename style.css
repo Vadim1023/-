@@ -27,7 +27,7 @@
     border: 2px solid black;
     background-image:linear-gradient(aqua,blue);
 }
-.start:hover{
+.start1:hover{
     box-shadow:0px 2px 3px blue;
 }
 .start2:hover{
